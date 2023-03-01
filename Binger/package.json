@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vlc-command": "^1.2.0",
+    "webtorrent-cli": "^4.1.0"
+  }
+}
